@@ -1,7 +1,7 @@
 [project]
-name = "ppt_package"
+name = "toystat"
 version = "0.1.0"
-description = "Python Package Template"
+description = "ToyStat"
 authors = [
     { name = "Xiangzhuang Shen", email = "datahonor@gmail.com" }
 ]

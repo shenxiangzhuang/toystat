@@ -45,23 +45,4 @@
 [//]: # (</div>)
 
 # About
-Python package template.
-Supported by Rye, MkDocs, Pre-Commit, Pytest, Codecov
-
-# Get Started
-
-## Step1: Create a repository by this template
-
-
-## Step2: GitHub Configuration
-- Needed in building documentation site: Set the github action can write the repo
-- Needed in package publishing: Set the pypi token `PYPI_API_TOKEN`
-- Needed in test coverage report generation: Set the codecov token `CODECOV_TOKEN`
-
-## Step3: Rye installation & Configuration
-- Install Rye
-- Run `rye sync` to install all the dependencies
-
-## Step3: Pre-Commit Configuration
-- `pre-commit`
-
+ToyStat
