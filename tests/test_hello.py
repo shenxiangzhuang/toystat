@@ -1,4 +1,4 @@
-from ppt_package.hello import hello
+from toystat.hello import hello
 
 
 def test_hello() -> None:
