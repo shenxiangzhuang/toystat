@@ -1,8 +1,8 @@
-site_name: PPT
+site_name: ToyStat
 repo_url: https://github.com/shenxiangzhuang/toystat
 repo_name: shenxiangzhuang/toystat
 edit_uri: ""
-site_description: ToyStat.
+site_description: Learning statistics from scratch
 site_author: Xiangzhuang Shen
 copyright: Copyright &copy; 2023 Xiangzhuang Shen
 
