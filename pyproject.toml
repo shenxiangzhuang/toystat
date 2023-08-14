@@ -1,6 +1,6 @@
 [project]
 name = "toystat"
-version = "0.1.0"
+version = "0.0.1"
 description = "ToyStat"
 authors = [
     { name = "Xiangzhuang Shen", email = "datahonor@gmail.com" }

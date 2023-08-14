@@ -2,8 +2,7 @@
     <em>ToyStat</em>
 </p>
 <p align="center">
-    <em>ToyStat
-</em>
+    <em>Learning statistics from scratch</em>
 </p>
 
 [//]: # (<div align="center">)
@@ -45,4 +44,4 @@
 [//]: # (</div>)
 
 # About
-ToyStat
+Learning statistics from scratch!
